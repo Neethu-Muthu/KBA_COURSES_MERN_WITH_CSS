@@ -96,13 +96,7 @@ Ensure MongoDB is running on your machine. If you're using MongoDB Atlas, ensure
 
 ```bash
 sudo systemctl start mongod
-## Usage
-- Navigating the Site: Use the navigation bar to access different sections of the site.
-- Viewing Courses: Click on a course to view detailed information.
-- Managing Courses: Admins can edit or remove courses through the provided buttons.
-
-
+```
 
 Make sure to replace placeholders like `yourusername`, `your_mongodb_connection_string`, and `your_jwt_secret` with the actual values relevant to your project.
-
 
